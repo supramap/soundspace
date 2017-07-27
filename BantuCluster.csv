@@ -1,0 +1,106 @@
+Language,LanguageName,Zone,Zone Name,Zone and Name,ZoneNumber,Group,Language,Cluster 1,Cluster 2,Cluster 3
+800Ejagham,800Ejagham,Z,Outgroup,Z - Outgroup,800,Outgroup,Ejagham,0.014693484,0.026544622,0.001944068
+802Tiv,802Tiv,Z,Outgroup,Z - Outgroup,802,Outgroup,Tiv,0.016907554,0.051813472,0.000710716
+805Amasi,805Amasi,Z,Outgroup,Z - Outgroup,805,Outgroup,Amasi,0.023237919,0.018713451,0.001604306
+806Ambele,806Ambele,Z,Outgroup,Z - Outgroup,806,Outgroup,Ambele,0.030427632,0.016875,0.001050885
+894Asumbo,894Asumbo,Z,Outgroup,Z - Outgroup,894,Outgroup,Asumbo,0.021671827,0.023219815,0.001534289
+951Bangang,951Bangang,Z,Outgroup,Z - Outgroup,951,Outgroup,Bangang,0.016261172,0.060377358,0.000386125
+952Atsang,952Atsang,Z,Outgroup,Z - Outgroup,952,Outgroup,Atsang,0.013129839,0.069083156,0.000254731
+9601Ghomala1,9601Ghomala1,Z,Outgroup,Z - Outgroup,96011,Outgroup,Ghomala1,0.019407895,0.0196875,0.001756084
+9602Ghomala2,9602Ghomala2,Z,Outgroup,Z - Outgroup,96022,Outgroup,Ghomala2,0.017857143,0.022916667,0.001738306
+9701FeFe1,9701FeFe1,Z,Outgroup,Z - Outgroup,97011,Outgroup,FeFe1,0.015573179,0.037808219,0.001115287
+9702FeFe2,9702FeFe2,Z,Outgroup,Z - Outgroup,97022,Outgroup,FeFe2,0.019198941,0.051991614,0.000491642
+9703FeFe3,9703FeFe3,Z,Outgroup,Z - Outgroup,97033,Outgroup,FeFe3,0.022279625,0.025153375,0.001438732
+A242Duala,A242Duala,A,"S Cameroon, Equatorial Guinea, N Gabon","A - S Cameroon, Equatorial Guinea, N Gabon",242,Duala,Duala,0.030161019,0.023515982,0.000848588
+A31Bubi,A31Bubi,A,"S Cameroon, Equatorial Guinea, N Gabon","A - S Cameroon, Equatorial Guinea, N Gabon",31,Bubi-Benga,Bubi,0.03002906,0.019427403,0.001040592
+A321Puku,A321Puku,A,"S Cameroon, Equatorial Guinea, N Gabon","A - S Cameroon, Equatorial Guinea, N Gabon",321,Bubi-Benga,Puku,0.018306636,0.047826087,0.000769527
+A43bBakoko,A43bBakoko,A,"S Cameroon, Equatorial Guinea, N Gabon","A - S Cameroon, Equatorial Guinea, N Gabon",43,Basaa,Bakoko,0.023367548,0.039834025,0.000697683
+A751Fang,A751Fang,A,"S Cameroon, Equatorial Guinea, N Gabon","A - S Cameroon, Equatorial Guinea, N Gabon",751,Ewondo-Fang,Fang,0.024505709,0.019047618,0.001392986
+B11aMpongwe,B11aMpongwe,B,"S Gabon, W Congo, W DR-Congo","B - S Gabon, W Congo, W DR-Congo",11,Myene,Mpongwe,0.012501313,0.060479042,0.00069772
+B251Kota,B251Kota,B,"S Gabon, W Congo, W DR-Congo","B - S Gabon, W Congo, W DR-Congo",251,Kele,Kota,0.024972004,0.032340426,0.000847298
+B31Tsogo,B31Tsogo,B,"S Gabon, W Congo, W DR-Congo","B - S Gabon, W Congo, W DR-Congo",31,Tsogo,Tsogo,0.016629521,0.035667752,0.001008907
+B735Teke,B735Teke,B,"S Gabon, W Congo, W DR-Congo","B - S Gabon, W Congo, W DR-Congo",735,Teke,Teke,0.010207336,0.059191919,0.000876017
+B80Mp1Madzing,B80Mp1Madzing,B,"S Gabon, W Congo, W DR-Congo","B - S Gabon, W Congo, W DR-Congo",801,Tiene-Yanzi,Madzing,0.022111492,0.045364891,0.000558552
+C34Sakata,C34Sakata,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",34,Bangi-Ntomba,Sakata,0.012743724,0.060532689,0.000674966
+C36Lingala,C36Lingala,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",36,Bangi-Ntomba,Lingala,0.017365205,0.0598778,0.000315412
+C40DDokoDoko,C40DDokoDoko,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",40,Ngombe,DDokoDoko,0.025177447,0.040966921,0.000495395
+C41Ngombe,C41Ngombe,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",41,Ngombe,Ngombe,0.018846242,0.055021834,0.000405766
+C51Mbesa,C51Mbesa,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",51,Soko-Kele,Mbesa,0.031034147,0.02883549,0.000531628
+C57Likile,C57Likile,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",57,Soko-Kele,Likile,0.022129187,0.053030303,0.000201126
+C611MongoNkundo,C611MongoNkundo,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",611,Mongo-Nkundo,MongoNkundo,0.022339181,0.045555556,0.000491642
+C613Mongo,C613Mongo,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",613,Mongo-Nkundo,Mongo,0.018575851,0.052129817,0.000556463
+C711Tetela,C711Tetela,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",711,Tetela,Tetela,0.02728622,0.023427332,0.001094197
+C75Kela,C75Kela,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",75,Tetela,Kela,0.027985719,0.032166303,0.000648709
+C841Lele,C841Lele,C,"NE DR-Congo, N Congo","C - NE DR-Congo, N Congo",841,Bushoong,Lele,0.02576525,0.036192469,0.000638723
+D10SSonge,D10SSonge,D,NE DR-Congo,D - NE DR-Congo,10,Mbole-Enya,SSonge,0.026234317,0.032817338,0.000767144
+D241Binja,D241Binja,D,NE DR-Congo,D - NE DR-Congo,241,Lega-Holoholo,Binja,0.025764895,0.036553945,0.000641272
+D253Lega,D253Lega,D,NE DR-Congo,D - NE DR-Congo,253,Lega-Holoholo,Lega,0.025964912,0.035238095,0.00068268
+D322Bira,D322Bira,D,NE DR-Congo,D - NE DR-Congo,322,Bira-Nyali,Bira,0.011733155,0.077282378,1.88E-05
+D372Kumu,D372Kumu,D,NE DR-Congo,D - NE DR-Congo,372,Bira-Nyali,Kumu,0.025309175,0.037431694,0.000640747
+E51Gikuyu,E51Gikuyu,E,"Kenya, apart from Swahili","E - Kenya, apart from Swahili",51,Kikuyu-Kamba,Gikuyu,0.005475472,0.06433121,0.001014599
+E55Kamba,E55Kamba,E,"Kenya, apart from Swahili","E - Kenya, apart from Swahili",55,Kikuyu-Kamba,Kamba,0.010776942,0.062380953,0.000474083
+E621Caga,E621Caga,E,"Kenya, apart from Swahili","E - Kenya, apart from Swahili",621,Chaga,Caga,0.010927743,0.069491525,0.000431228
+E711Pokomo,E711Pokomo,E,"Kenya, apart from Swahili","E - Kenya, apart from Swahili",711,Nyika-Taita,Pokomo,0.009222824,0.070794393,0.000413531
+E72a1Giryama,E72a1Giryama,E,"Kenya, apart from Swahili","E - Kenya, apart from Swahili",721,Nyika-Taita,Giryama,0.01149719,0.069660194,0.000322193
+E731Digo,E731Digo,E,"Kenya, apart from Swahili","E - Kenya, apart from Swahili",731,Nyika-Taita,Digo,0.011753951,0.064764268,0.000505062
+E74bSagala,E74bSagala,E,"Kenya, apart from Swahili","E - Kenya, apart from Swahili",74,Nyika-Taita,Sagala,0.011520737,0.07281106,0.000234493
+F21Sukuma,F21Sukuma,F,W & C Tanzania.,F - W & C Tanzania.,21,Sukuma-Nyamwezi,Sukuma,0.008838891,0.063104326,0.000889459
+F22Nyamwezi,F22Nyamwezi,F,W & C Tanzania.,F - W & C Tanzania.,22,Sukuma-Nyamwezi,Nyamwezi,0.017795513,0.048565574,0.0006075
+F23Sumbwa,F23Sumbwa,F,W & C Tanzania.,F - W & C Tanzania.,23,Sukuma-Nyamwezi,Sumbwa,0.011261779,0.076637555,8.69E-05
+G11Gogo,G11Gogo,G,"E Tanzania, Comoros","G - E Tanzania, Comoros",11,Gogo-Kagulu,Gogo,0.010741139,0.073469388,0.000210704
+G12Kaguru,G12Kaguru,G,"E Tanzania, Comoros","G - E Tanzania, Comoros",12,Gogo-Kagulu,Kaguru,0.01204384,0.072997713,0.00015188
+G23Shambala,G23Shambala,G,"E Tanzania, Comoros","G - E Tanzania, Comoros",23,Shambala,Shambala,0.013939552,0.06980198,0.000131429
+G31Zigula,G31Zigula,G,"E Tanzania, Comoros","G - E Tanzania, Comoros",31,Zigula-Zaramo,Zigula,0.010425826,0.074224343,0.000200646
+G34Ngulu,G34Ngulu,G,"E Tanzania, Comoros","G - E Tanzania, Comoros",34,Zigula-Zaramo,Ngulu,0.011667099,0.074137931,0.00014168
+G35Luguru,G35Luguru,G,"E Tanzania, Comoros","G - E Tanzania, Comoros",35,Zigula-Zaramo,Luguru,0.014051522,0.070491803,0.00012435
+G43cHadimu,G43cHadimu,G,"E Tanzania, Comoros","G - E Tanzania, Comoros",43,Swahili,Hadimu,0.011665762,0.070618557,0.000273698
+H12b1Yombe,H12b1Yombe,H,"NW Angola, W Congo","H - NW Angola, W Congo",121,Kikongo,Yombe,0.019032822,0.061439114,9.80E-05
+H16hSikongo,H16hSikongo,H,"NW Angola, W Congo","H - NW Angola, W Congo",16,Kikongo,Sikongo,0.030940989,0.033131313,0.000357558
+H16i4Sundi,H16i4Sundi,H,"NW Angola, W Congo","H - NW Angola, W Congo",164,Kikongo,Sundi,0.017788009,0.065208748,4.40E-05
+H312YakaKasongo,H312YakaKasongo,H,"NW Angola, W Congo","H - NW Angola, W Congo",312,Yaka,YakaKasongo,0.021921777,0.054495413,0.000170496
+H314Yaka,H314Yaka,H,"NW Angola, W Congo","H - NW Angola, W Congo",314,Yaka,Yaka,0.012985735,0.071775702,0.000157142
+H32Suku,H32Suku,H,"NW Angola, W Congo","H - NW Angola, W Congo",32,Yaka,Suku,0.012491963,0.070331588,0.00025483
+J13Hima,J13Hima,J,"Uganda, Rwanda–Burundi, near lakes Kivu & Victoria","J - Uganda, Rwanda–Burundi, near lakes Kivu & Victoria",13,Nyoro-Ganda,Hima,0.028462998,0.030170777,0.000696882
+J15Ganda,J15Ganda,J,"Uganda, Rwanda–Burundi, near lakes Kivu & Victoria","J - Uganda, Rwanda–Burundi, near lakes Kivu & Victoria",15,Nyoro-Ganda,Ganda,0.00973259,0.077199282,0.000190655
+J16Soga,J16Soga,J,"Uganda, Rwanda–Burundi, near lakes Kivu & Victoria","J - Uganda, Rwanda–Burundi, near lakes Kivu & Victoria",16,Nyoro-Ganda,Soga,0.011156095,0.073675213,0.000226912
+J22HHaya,J22HHaya,J,"Uganda, Rwanda–Burundi, near lakes Kivu & Victoria","J - Uganda, Rwanda–Burundi, near lakes Kivu & Victoria",22,Haya-Jita,HHaya,0.012003694,0.069473685,0.000341562
+J23Zinza,J23Zinza,J,"Uganda, Rwanda–Burundi, near lakes Kivu & Victoria","J - Uganda, Rwanda–Burundi, near lakes Kivu & Victoria",23,Haya-Jita,Zinza,0.011147661,0.075694444,0.000138274
+J51Hunde,J51Hunde,J,"Uganda, Rwanda–Burundi, near lakes Kivu & Victoria","J - Uganda, Rwanda–Burundi, near lakes Kivu & Victoria",51,Shi-Hunde,Hunde,0.014507422,0.054273504,0.000803646
+J53Shi,J53Shi,J,"Uganda, Rwanda–Burundi, near lakes Kivu & Victoria","J - Uganda, Rwanda–Burundi, near lakes Kivu & Victoria",53,Shi-Hunde,Shi,0.026108579,0.044094488,0.000278726
+J611Rwanda,J611Rwanda,J,"Uganda, Rwanda–Burundi, near lakes Kivu & Victoria","J - Uganda, Rwanda–Burundi, near lakes Kivu & Victoria",611,Shi-Hunde,Rwanda,0.018314679,0.056942003,0.000357715
+J62Rundi,J62Rundi,J,"Uganda, Rwanda–Burundi, near lakes Kivu & Victoria","J - Uganda, Rwanda–Burundi, near lakes Kivu & Victoria",62,Shi-Hunde,Rundi,0.016710242,0.051619871,0.00073587
+K11Ciokwe,K11Ciokwe,K,"E Angola, W Zambia","K - E Angola, W Zambia",11,Ciokwe-Luchazi,Ciokwe,0.00971178,0.075992063,0.000245821
+K141Lwena,K141Lwena,K,"E Angola, W Zambia","K - E Angola, W Zambia",141,Ciokwe-Luchazi,Lwena,0.01855735,0.054780877,0.000440715
+K19Gangela,K19Gangela,K,"E Angola, W Zambia","K - E Angola, W Zambia",19,Ciokwe-Luchazi,Gangela,0.008902367,0.075464684,0.000337204
+K221Ndembu,K221Ndembu,K,"E Angola, W Zambia","K - E Angola, W Zambia",221,Lozi,Ndembu,0.012065362,0.073285199,0.000167726
+L33Luba,L33Luba,L,"S DR-Congo, C Zambia","L - S DR-Congo, C Zambia",33,Luba,Luba,0.014529567,0.062741312,0.000427102
+L42Kaonde,L42Kaonde,L,"S DR-Congo, C Zambia","L - S DR-Congo, C Zambia",42,Kaonde,Kaonde,0.009455843,0.07559322,0.000284986
+M15Mambwe,M15Mambwe,M,"E Zambia, SE DR-Congo","M - E Zambia, SE DR-Congo",15,Fipa-Mambwe,Mambwe,0.01006192,0.078125,0.000113873
+M312Nyakyusa,M312Nyakyusa,M,"E Zambia, SE DR-Congo","M - E Zambia, SE DR-Congo",312,Nyakyusa-Ngonde,Nyakyusa,0.010334928,0.075636364,0.000209171
+M42Bemba,M42Bemba,M,"E Zambia, SE DR-Congo","M - E Zambia, SE DR-Congo",42,Bemba,Bemba,0.01754386,0.059075908,0.000335874
+M52Lala,M52Lala,M,"E Zambia, SE DR-Congo","M - E Zambia, SE DR-Congo",52,Lala-Bisa-Lamba,Lala,0.027340057,0.044011976,0.000178846
+M54Lamba,M54Lamba,M,"E Zambia, SE DR-Congo","M - E Zambia, SE DR-Congo",54,Lala-Bisa-Lamba,Lamba,0.009647816,0.07928465,0.000105509
+M641Tonga,M641Tonga,M,"E Zambia, SE DR-Congo","M - E Zambia, SE DR-Congo",641,Lenje-Tonga,Tonga,0.017209691,0.063968254,0.000147493
+N212Tumbuka,N212Tumbuka,N,"Malawi and surrounding areas, C Mozambique","N - Malawi and surrounding areas, C Mozambique",212,Tumbuka,Tumbuka,0.012265446,0.070086957,0.00029242
+N31aNyanja,N31aNyanja,N,"Malawi and surrounding areas, C Mozambique","N - Malawi and surrounding areas, C Mozambique",31,Chewa-Nyanja,Nyanja,0.014287215,0.068463074,0.000194302
+N31bCewa,N31bCewa,N,"Malawi and surrounding areas, C Mozambique","N - Malawi and surrounding areas, C Mozambique",31,Chewa-Nyanja,Cewa,0.013287657,0.068441815,0.000279276
+N31Nyasa,N31Nyasa,N,"Malawi and surrounding areas, C Mozambique","N - Malawi and surrounding areas, C Mozambique",31,Chewa-Nyanja,Nyasa,0.007746639,0.065584415,0.000679998
+N42Kunda,N42Kunda,N,"Malawi and surrounding areas, C Mozambique","N - Malawi and surrounding areas, C Mozambique",42,Senga-Sena,Kunda,0.014529567,0.067374517,0.000222093
+N44Sena,N44Sena,N,"Malawi and surrounding areas, C Mozambique","N - Malawi and surrounding areas, C Mozambique",44,Senga-Sena,Sena,0.011429625,0.070753065,0.000333215
+P212Yao,P212Yao,P,"NE Mozambique, SE Tanzania","P - NE Mozambique, SE Tanzania",212,Yao,Yao,0.01776796,0.05109489,0.000670176
+P311Makwa,P311Makwa,P,"NE Mozambique, SE Tanzania","P - NE Mozambique, SE Tanzania",311,Makhuwa,Makwa,0.01691374,0.039697543,0.001221205
+R111Umbundu,R111Umbundu,R,"SW Angola, N Namibia, N Botswana","R - SW Angola, N Namibia, N Botswana",111,Umbundu,Umbundu,0.034729016,0.026208178,0.000345429
+R22Ndonga,R22Ndonga,R,"SW Angola, N Namibia, N Botswana","R - SW Angola, N Namibia, N Botswana",22,Wambo,Ndonga,0.012353197,0.074876033,7.31E-05
+R31Herero,R31Herero,R,"SW Angola, N Namibia, N Botswana","R - SW Angola, N Namibia, N Botswana",31,Herero,Herero,0.009798432,0.070921986,0.000462876
+S10Shona,S10Shona,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",10,Shona,Shona,0.026051043,0.039637827,0.000480761
+S15Ndau,S15Ndau,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",15,Shona,Ndau,0.012733447,0.067383513,0.000372696
+S21Venda,S21Venda,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",21,Venda,Venda,0.015780943,0.06726094,0.000121914
+S31Tswana,S31Tswana,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",31,Sotho-Tswana,Tswana,0.019329762,0.03752495,0.001130482
+S33Sotho,S33Sotho,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",33,Sotho-Tswana,Sotho,0.026865075,0.029222011,0.000873201
+S34Lozi,S34Lozi,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",34,Sotho-Tswana,Lozi,0.009727626,0.076070039,0.000223821
+S41Xhosa,S41Xhosa,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",41,Nguni,Xhosa,0.011805214,0.075545171,8.96E-05
+S42Zulu,S42Zulu,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",42,Nguni,Zulu,0.021840315,0.053231293,0.000233279
+S43Swati,S43Swati,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",43,Nguni,Swati,0.027253876,0.037523452,0.000473194
+S44Ndebele,S44Ndebele,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",44,Nguni,Ndebele,0.011530316,0.075856931,9.89E-05
+S45Ngoni,S45Ngoni,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",45,Nguni,Ngoni,0.011272275,0.076692914,8.36E-05
+S53Tsonga,S53Tsonga,S,"South Africa, Botswana, Zimbabwe, S. Mozambique.","S - South Africa, Botswana, Zimbabwe, S. Mozambique.",53,Tswa-Rhonga,Tsonga,0.025105868,0.04367816,0.000381446
