@@ -1,0 +1,12 @@
+SELECT * FROM
+(SELECT  COLUMN_NAME AS BantuSounds
+FROM    INFORMATION_SCHEMA.COLUMNS
+WHERE   TABLE_NAME = 'BantuBantoid_frequency'
+AND COLUMN_NAME <> 'Language') AS b
+FULL OUTER JOIN
+(SELECT  COLUMN_NAME AS UASounds
+FROM    INFORMATION_SCHEMA.COLUMNS
+WHERE   TABLE_NAME = 'Uto-Aztecan_frequecy'
+AND COLUMN_NAME <> 'Language') AS ua
+ON b.BantuSounds = ua.UASounds COLLATE Latin1_General_100_CS_AS 
+ORDER BY UASounds, BantuSounds
