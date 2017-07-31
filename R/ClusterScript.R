@@ -25,6 +25,10 @@ hist(dataclust)  #Check cluster distribution
 
 tdata$cluster <- factor(as.character(dataclust))  #Join cluster information back to matrix
 
+#see the cluster assignments
+soundclusters <- data.frame(sound = rownames(tdata),cluster = tdata$cluster)
+#write.csv(soundclusters, file = "DIR/soundassignments.csv", row.names = TRUE, col.names = TRUE)
+
 #Pivot the data
 meltdata <- melt(tdata, id = "cluster", measured = c(colnames(tdata)))
 meltdata$value <- as.numeric(meltdata$value) #Fix for value being characterized
@@ -39,7 +43,7 @@ pivotdata$Language <- row.names(pivotdata)
 
 
 ##CLEAN UP
-rm(data,meltdata,tdata)
+rm(data,meltdata,tdata, soundclusters)
 
 #Join Language Group Information
 #groupinfo <- read_excel("BantuLanguageInformation.xlsx")
