@@ -1,0 +1,5 @@
+# Visualizing Linguistic Disparity of Uto-Aztecan Languages and Bantu Languages
+<h4 align = "right">Colby T. Ford, Ming Xue, Peter M. Whiteley, Daniel Janies, Xinghua Shi, and Ward C. Wheeler </h4>
+
+## Abstract
+Language origins and diversification are crucial for understanding historical relationships among human populations. In this study, we present a novel means of analyzing and visualizing relationships among different language groups. Based on the Swadesh-100 list of words, we produced two lexical data sets, which we rendered into LaTeX TIPA format.  The Uto-Aztecan (UA) data set, from North and Central America, includes 37 Uto-Aztecan languages and three non-UA outgroups.  The Bantu data set includes 93 Bantu languages and 12 Bantoid outgroups, from sub-Saharan Africa. Our alphabets comprise 148 distinct sounds for UA and 287 for Bantu. For each language a "mean word" was created and were plotted by reducing the 148- and 287- dimensional data into three clusters by running the k-Means Clustering algorithm. This allows the visualization of the different languages in 3-dimensional interactive plots, revealing interesting linguistic disparity patterns. 
